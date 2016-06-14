@@ -1,0 +1,17 @@
+/*This file is for your custom css.  All yours*/
+#total {
+  text-align: center;
+  vertical-align: middle;
+  margin-top: 10px;
+  height: 50px;
+  /*background-color: lightblue;*/
+  font-size: 1.7em;
+  display: none;
+}
+
+.total-amount{
+  height: 40px;
+  width: 100px
+  background-color: white;
+
+}
